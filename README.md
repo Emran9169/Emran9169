@@ -30,3 +30,5 @@ The main objective of this project is to achieve a clean and well-organized data
 
 This project focuses on analyzing historical data of the top cryptocurrencies to uncover market trends and predict future price movements. Our aim is to derive meaningful insights from the data and provide a comprehensive understanding of the cryptocurrency market dynamics. This is a group project involving two members, and we analyzed btc, eth, xrp, ada, and bnb using data from the Bitfinex exchange from 2018 to 2023.
 
+
+#### Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/emran-kemal/)!
